@@ -1,3 +1,44 @@
+<h1 align="center" id="title">Portfolio</h1>
+
+<p align="center"><img src="https://socialify.git.ci/HarshadaG06/react-portfolio/image?font=Raleway&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
+
+<p id="description">Software Developer Portfolio built with React.js Next.js and Tailwindcss that helps you showcase your work and skills as a software developer.</p>
+
+<p align="center"><img src="https://img.shields.io/badge/react-next-teal" alt="shields"><img src="https://img.shields.io/badge/Tailwind-CSS-cyan" alt="shields"><img src="https://img.shields.io/badge/vercel-blue" alt="shields"></p>
+
+<h2>Demo 🌐</h2>
+
+[Portfolio](https://react-portfolio-fawn-five.vercel.app/)
+
+![portfolio](https://github.com/HarshadaG06/react-portfolio/blob/main/Gifs/Portfolio.gif)
+
+<h2>Features 📌</h2>
+
+
+*   Responsive Design
+*   Dark Mode
+*   Minimal code
+
+  
+  
+<h2>Built with 💻</h2>
+
+Technologies used in the project:
+
+*   Reactjs
+*   Next.js
+*   Tailwind CSS
+*   Vercel
+
+## Sections
+
+🔲 Resume\
+🔲 About me\
+🔲 Github and LinkedIn Links using clickable icons\
+🔲 My Skillset\
+🔲 Technologies used\
+🔲 Projects\
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
